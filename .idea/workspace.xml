@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b70c1588-87ee-4b49-85a9-b28e8717773f" name="Changes" comment="filled out README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/.idea/assignment3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/UI/BoardPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/UI/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/docs/CLASSDIAGRAM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/docs/CRC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/docs/OODEXPLAINED.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/model/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment3/model/Cell.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testing-grounds" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cySLNB2FMibuOHGLXal1OOHjl6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;deng&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/陈登/SFU/2024 spring/cmpt213/assignment3/modelsub&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/陈登/SFU/2024 spring/cmpt213/assignment3/untitled/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\deng\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="c97f7370-f15e-46c0-aade-149a3da911d5" reportId="assignment3/qodana/2024-03-02" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\陈登\SFU\2024 spring\cmpt213\assignment3\modelsub" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\陈登\SFU\2024 spring\cmpt213\assignment3\UI2" />
+      <recent name="D:\陈登\SFU\2024 spring\cmpt213\assignment3\Model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="UI" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b70c1588-87ee-4b49-85a9-b28e8717773f" name="Changes" comment="" />
+      <created>1709082268533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709082268533</updated>
+      <workItem from="1709082269582" duration="63000" />
+      <workItem from="1709082434508" duration="194000" />
+      <workItem from="1709082653729" duration="3497000" />
+      <workItem from="1709087716577" duration="94000" />
+      <workItem from="1709087875778" duration="17000" />
+      <workItem from="1709087900381" duration="1035000" />
+      <workItem from="1709256625061" duration="3841000" />
+      <workItem from="1709267341710" duration="11385000" />
+      <workItem from="1709342688298" duration="5669000" />
+      <workItem from="1709422056765" duration="4885000" />
+      <workItem from="1709426972688" duration="107000" />
+      <workItem from="1709427181423" duration="7017000" />
+      <workItem from="1709434249652" duration="172000" />
+      <workItem from="1709446486997" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="init push, basic project structure">
+      <option name="closed" value="true" />
+      <created>1709085707081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709085707081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated your initial structure">
+      <option name="closed" value="true" />
+      <created>1709087214475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709087214475</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed data type of package folder">
+      <option name="closed" value="true" />
+      <created>1709088135672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709088135672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed data type of package folder">
+      <option name="closed" value="true" />
+      <created>1709088142196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709088142196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test: fixed personal commit pathing issues">
+      <option name="closed" value="true" />
+      <created>1709088598801</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709088598801</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test: fixed personal commit pathing issues">
+      <option name="closed" value="true" />
+      <created>1709088746093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709088746093</updated>
+    </task>
+    <task id="LOCAL-00007" summary="logic for board, needs testing once printer is implemented">
+      <option name="closed" value="true" />
+      <created>1709283722145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709283722145</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed logic for board needs testing once boardPrinter is implemented">
+      <option name="closed" value="true" />
+      <created>1709284937809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709284937809</updated>
+    </task>
+    <task id="LOCAL-00009" summary="final stretch, just missing boardPrinter now">
+      <option name="closed" value="true" />
+      <created>1709344078846</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709344078846</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final stretch, just have to fix that infinite loop issue">
+      <option name="closed" value="true" />
+      <created>1709347646876</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709347646876</updated>
+    </task>
+    <task id="LOCAL-00011" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709423682724</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709423682724</updated>
+    </task>
+    <task id="LOCAL-00012" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709423900163</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709423900163</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709424013898</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709424013899</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709424108225</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709424108225</updated>
+    </task>
+    <task id="LOCAL-00015" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709424555705</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709424555705</updated>
+    </task>
+    <task id="LOCAL-00016" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709425379179</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709425379179</updated>
+    </task>
+    <task id="LOCAL-00017" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709425532375</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709425532375</updated>
+    </task>
+    <task id="LOCAL-00018" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709425871850</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709425871850</updated>
+    </task>
+    <task id="LOCAL-00019" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709426203805</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709426203805</updated>
+    </task>
+    <task id="LOCAL-00020" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709426216193</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709426216193</updated>
+    </task>
+    <task id="LOCAL-00021" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709426719239</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709426719239</updated>
+    </task>
+    <task id="LOCAL-00022" summary="bug fixing phase">
+      <option name="closed" value="true" />
+      <created>1709426834648</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709426834648</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changed generation logic">
+      <option name="closed" value="true" />
+      <created>1709433832199</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709433832199</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changed generation logic">
+      <option name="closed" value="true" />
+      <created>1709433978225</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709433978225</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed generation logic">
+      <option name="closed" value="true" />
+      <created>1709434126935</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709434126935</updated>
+    </task>
+    <task id="LOCAL-00026" summary="final">
+      <option name="closed" value="true" />
+      <created>1709434207592</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709434207592</updated>
+    </task>
+    <task id="LOCAL-00027" summary="filled out README.md">
+      <option name="closed" value="true" />
+      <created>1709434310901</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709434310901</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init push, basic project structure" />
+    <MESSAGE value="updated your initial structure" />
+    <MESSAGE value="fixed data type of package folder" />
+    <MESSAGE value="test: fixed personal commit pathing issues" />
+    <MESSAGE value="logic for board, needs testing once printer is implemented" />
+    <MESSAGE value="fixed logic for board needs testing once boardPrinter is implemented" />
+    <MESSAGE value="final stretch, just missing boardPrinter now" />
+    <MESSAGE value="final stretch, just have to fix that infinite loop issue" />
+    <MESSAGE value="bug fixing phase" />
+    <MESSAGE value="changed generation logic" />
+    <MESSAGE value="final" />
+    <MESSAGE value="filled out README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="filled out README.md" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
